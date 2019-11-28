@@ -1,0 +1,34 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+/* デバック */
+.debug_dump {
+  clear: both;
+  float: left;
+  width: 100%;
+  margin-top: 45px;
+  -moz-box-sizing:    border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing:         border-box;
+}
+
+/* タイトルロゴ　*/
+
+#logo {
+  color: #fff;
+  font-size: 1.7em;
+  padding-top: 9px;
+  float: left;
+}
+
+body {
+  padding-top: 60px;
+}
+
+.center {
+  text-align: center;
+}
+
+p {
+  margin-top: 10px;
+}
